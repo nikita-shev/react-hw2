@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/react-hw2/static/css/main.cd8af34a.css",
-    "main.js": "/react-hw2/static/js/main.58d73a71.js",
+    "main.css": "/react-hw2/static/css/main.6bf3b792.css",
+    "main.js": "/react-hw2/static/js/main.fc807b7c.js",
     "static/js/787.66cb4309.chunk.js": "/react-hw2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-hw2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/react-hw2/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/react-hw2/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/react-hw2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/react-hw2/index.html",
-    "main.cd8af34a.css.map": "/react-hw2/static/css/main.cd8af34a.css.map",
-    "main.58d73a71.js.map": "/react-hw2/static/js/main.58d73a71.js.map",
+    "static/media/burger.svg": "/react-hw2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.6bf3b792.css.map": "/react-hw2/static/css/main.6bf3b792.css.map",
+    "main.fc807b7c.js.map": "/react-hw2/static/js/main.fc807b7c.js.map",
     "787.66cb4309.chunk.js.map": "/react-hw2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd8af34a.css",
-    "static/js/main.58d73a71.js"
+    "static/css/main.6bf3b792.css",
+    "static/js/main.fc807b7c.js"
   ]
 }
