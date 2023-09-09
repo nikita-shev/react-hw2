@@ -1,5 +1,16 @@
+.hw6 {
+    width: 1280px;
+    margin: auto;
+    padding: 20px 0;
+    background-color: #FFFFFF;
+}
+
 .buttonsContainer {
+    display: flex;
+    align-items: center;
+    column-gap: 25px;
 }
 
 .editableSpanContainer {
+    margin-bottom: 15px;
 }
