@@ -14,7 +14,6 @@ export const homeWorkReducer = (state: UserType[], action: ActionType): UserType
             } else if (action.payload === 'down') {
                 s = [...state].sort((a, b) => b.name.localeCompare(a.name));
             }
-            console.log(s)
 
             return s;
         }
