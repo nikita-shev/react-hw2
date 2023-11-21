@@ -1,8 +1,26 @@
+.hw11 {
+    width: 1280px;
+    margin: auto;
+    padding: 20px 0;
+    background-color: #FFFFFF;
+}
+
 .container {
 }
 
 .wrapper {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    width: 50%;
+}
+
+.wrapper:not(:last-child) {
+    margin-bottom: 30px;
 }
 
 .number {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.6);
 }
