@@ -1,7 +1,23 @@
+.hw14 {
+    width: 1280px;
+    margin: auto;
+    padding: 20px 0;
+    background-color: #FFFFFF;
+}
+
+.hw-s {
+    position: relative;
+    width: max-content;
+    margin-bottom: 10px;
+}
+
 .tech {
 
 }
 
 .loading {
-
+    position: absolute;
+    right: 0;
+    bottom: -15px;
+    color: gray;
 }
